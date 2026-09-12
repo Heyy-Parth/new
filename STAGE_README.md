@@ -1,8 +1,9 @@
-﻿# For and While Loops
+﻿# Functions
 
-This branch focuses on For and While Loops.
+This branch focuses on Functions.
 
-## Files- loops/01_for_loop.py
-- loops/02_while_loop.py
-- loops/03_loop_control.py
+## Files- functions/01_basic_function.py
+- functions/02_parameters.py
+- functions/03_default_args.py
+- functions/04_lambda.py
 
