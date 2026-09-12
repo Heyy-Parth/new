@@ -1,9 +1,10 @@
-﻿# Operators
+﻿# Data Structures
 
-This branch focuses on Operators.
+This branch focuses on Data Structures.
 
-## Files- operators/01_arithmetic.py
-- operators/02_comparison.py
-- operators/03_logical.py
-- operators/04_assignment.py
+## Files- data_structures/01_list.py
+- data_structures/02_tuple.py
+- data_structures/03_set.py
+- data_structures/04_dictionary.py
+- data_structures/05_string.py
 
