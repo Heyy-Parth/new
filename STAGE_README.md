@@ -1,8 +1,9 @@
-﻿# Variables
+﻿# Operators
 
-This branch focuses on Variables.
+This branch focuses on Operators.
 
-## Files- variables/01_basic_variables.py
-- variables/02_variable_types.py
-- variables/03_type_conversion.py
+## Files- operators/01_arithmetic.py
+- operators/02_comparison.py
+- operators/03_logical.py
+- operators/04_assignment.py
 
