@@ -1,10 +1,8 @@
-﻿# Data Structures
+﻿# For and While Loops
 
-This branch focuses on Data Structures.
+This branch focuses on For and While Loops.
 
-## Files- data_structures/01_list.py
-- data_structures/02_tuple.py
-- data_structures/03_set.py
-- data_structures/04_dictionary.py
-- data_structures/05_string.py
+## Files- loops/01_for_loop.py
+- loops/02_while_loop.py
+- loops/03_loop_control.py
 
