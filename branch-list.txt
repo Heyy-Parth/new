@@ -1,0 +1,6 @@
+﻿stage-01-variables
+stage-02-operators
+stage-03-data-structures
+stage-04-loops
+stage-05-functions
+stage-06-oop
