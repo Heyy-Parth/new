@@ -1,17 +1,8 @@
 ﻿# Python Learning Repository
 
-This repository is designed for learning Python step by step.
+This repository contains six beginner-friendly Python stages. Each file shows real examples of the syntax and concept for that stage.
 
-## Branches
-- main
-- stage-01-variables
-- stage-02-operators
-- stage-03-data-structures
-- stage-04-loops
-- stage-05-functions
-- stage-06-oop
-
-## Learning path
+## Stages
 1. Variables
 2. Operators
 3. Data Structures
@@ -19,5 +10,19 @@ This repository is designed for learning Python step by step.
 5. Functions
 6. Object Oriented Programming (OOP)
 
-## How to use
-Switch to a topic branch and open the example files there.
+## Files
+- [stage_01_variables.py](stage_01_variables.py)
+- [stage_02_operators.py](stage_02_operators.py)
+- [stage_03_data_structures.py](stage_03_data_structures.py)
+- [stage_04_loops.py](stage_04_loops.py)
+- [stage_05_functions.py](stage_05_functions.py)
+- [stage_06_oop.py](stage_06_oop.py)
+
+## How to run
+Use Python 3 to run any file:
+
+```bash
+py -3 stage_01_variables.py
+```
+
+Each file is designed to teach one topic with practical examples.
